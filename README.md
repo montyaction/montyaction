@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=montyaction&label=Profile%20views&color=0e75b6&style=flat" alt="montyaction" /> </p>
 
-- 🔭 I’m currently working **remotly**
-- 🌱 I’m currently learning **Node.js, React**
+- 🔭 I’m currently working **Frontend Mentor Challenge**
+- 🌱 I’m currently learning **HTML, CSS**
 - 💬 Ask me about **html, css, javascript**
 - 📫 How to reach me: **montyaction@hotmail.com**
 - 👨‍💻 You can also check out my portfolio at https://blissful-banach-06fb18.netlify.app
